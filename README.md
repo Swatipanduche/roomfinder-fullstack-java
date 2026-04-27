@@ -24,4 +24,22 @@ Rental Room Finder is a web-based application developed using JSP, Servlets, and
 ---
 
 ## 📂 Project Structure
+## 🎯 Objective
+
+To provide a digital solution for searching and listing rental rooms, replacing traditional manual methods with a fast and efficient web-based system.
+
+---
+
+## 📈 Future Improvements
+
+- Room image upload
+- Advanced filters (price, type)
+- Booking system
+- User dashboard
+
+---
+
+## 👨‍💻 Developed By
+
+Swatipanduche
 
