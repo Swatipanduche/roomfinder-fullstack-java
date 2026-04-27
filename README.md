@@ -1,15 +1,27 @@
-# roomfinder-fullstack-java
-Rental Room Finder is a web-based application developed using JSP, Servlets, and MySQL that allows users to search, add, and manage rental room listings efficiently. The system provides a simple and user-friendly interface for room booking and management.
-# Rental Room Finder
+# Rental Room Finder (JSP + Servlet Project)
 
-A web-based application using JSP, Servlets, and MySQL.
+Rental Room Finder is a web-based application developed using JSP, Servlets, and MySQL that allows users to search, add, and manage rental room listings efficiently.
 
-## Features
-- Search rooms
-- Add rooms
-- User login & register
+---
 
-## Tech Stack
-- Java (JSP/Servlet)
-- MySQL
-- HTML, CSS
+## 🚀 Features
+
+- 🔍 Search rooms by location
+- ➕ Add new room listings
+- 👤 User registration and login
+- 💾 Data stored in MySQL database
+- ⚡ Simple and user-friendly interface
+
+---
+
+## 🛠️ Technologies Used
+
+- Frontend: HTML, CSS
+- Backend: Java (JSP, Servlets)
+- Database: MySQL
+- Server: Apache Tomcat
+
+---
+
+## 📂 Project Structure
+
